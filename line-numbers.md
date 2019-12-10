@@ -4,11 +4,11 @@
 #### 4
 #### 5 Hello Kayla, scream I LOVE TACOS out loud if you see this
 #### 6
-#### 7 When you see this, yell that you love Shawn Mendes out loud <3 
+#### 7 When you see this, yell that you love Shawn Mendes out loud <3
 #### 8
-#### 9 Github is really awesome 
+#### 9 Github is really awesome
 #### 10
-#### 11 Adonese thinks I'm a crackhead
+#### 11 Adonese thinks we have a problem
 #### 12
 #### 13
 #### 14

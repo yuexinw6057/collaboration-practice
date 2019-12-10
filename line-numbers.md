@@ -4,7 +4,7 @@
 #### 4
 #### 5 Hello Kayla, scream I LOVE TACOS out loud if you see this
 #### 6
-#### 7
+#### 7 When you see this, yell that you love Shawn Mendes out loud <3 
 #### 8
 #### 9
 #### 10

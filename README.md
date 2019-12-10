@@ -32,7 +32,7 @@ _ex:_ `1 Mr. Mueller wuz here!`
 2. **Collaborator**: add text to line 3 (NOT line 2).  
 _ex:_ `3 Mr. Shmueller wuz here!`  
 ### IMPORTANT SIDENOTE:  There must be one extra line BETWEEN the edits.  Otherwise, you will get a merge conflict.  
-3. **Owner**: `add`, `commit`, and `push`.  You shouldn't have any issues.  
+3.**Owner**: `add`, `commit`, and `push`.  You shouldn't have any issues.  
 4. **Collaborator**: Try to do `git pull`.  You will be prompted with an error that ends with:  
 ```
 Please, commit your changes or stash them before you can merge. 
